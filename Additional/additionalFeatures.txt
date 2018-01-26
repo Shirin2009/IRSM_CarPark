@@ -1,0 +1,5 @@
+Additional features:
+1. Pay for ticket (requires selecting ticket)
+2. Second entrance and exit
+3. Ticket Selection (when leaving)
+4. UI improvements
